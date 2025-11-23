@@ -11,7 +11,8 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function() {
-    alert("Eu pago o lanche e vc o boquet");
+    alert(" Ja posso ir ou ta cedo??");
 });
+
 
 
